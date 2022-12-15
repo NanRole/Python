@@ -3,7 +3,7 @@ import requests
 areas = {
     '安置區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area0.html',
     '集賢區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area1.html',
-    '原住民區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area2.html',
+    '原民院區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area2.html',
     '教院區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area3.html',
     '多容區': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/area4.html',
     '中途中的狗狗們': 'http://faculty.ndhu.edu.tw/~aowoo-welfare/areahome.html'
